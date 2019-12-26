@@ -1,0 +1,20 @@
+{
+  "name": "ex3",
+  "version": "1.0.0",
+  "description": "EX3",
+  "main": "index.js",
+  "scripts": {
+    "Start": "node index.js"
+  },
+  "author": "Ehab Damouny",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.3",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "concurrently": "^5.0.2",
+    "nodemon": "^2.0.2"
+  }
+}
