@@ -4,7 +4,7 @@
   "description": "EX3",
   "main": "index.js",
   "scripts": {
-    "Start": "node index.js"
+    "start": "node index.js"
   },
   "author": "Ehab Damouny",
   "license": "ISC",
